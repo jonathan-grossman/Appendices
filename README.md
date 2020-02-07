@@ -29,6 +29,6 @@ Download the above dataset as a CSV file.
 &nbsp;  
 
 
-## Codebook and Other Information
+## [Codebook and Other Information](https://github.com/for-anonymous-review/Appendices/blob/master/Codebook.pdf)
 
 This PDF document explains how we selected and collected our data. We present our codebook for the dataset and tables of descriptive statistics to demonstrate our data-collection process.
