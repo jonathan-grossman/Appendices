@@ -1,9 +1,10 @@
-## Online Appendix for
+### Online Appendix for
 
-# *How Can We Do Better? Replication and Online Appendices in Political Science*
+## *How Can We Do Better? Replication and Online Appendices in Political Science*
 
 by REDACTED
 
+&nbsp;  
 
 # Contents of the Appendix
 
@@ -12,15 +13,20 @@ by REDACTED
 
 Online annotations corresponding to &quot;Online Appendix Annotation&quot; (OAA) #1–18 in the article.
 
+&nbsp;  
 
 ## Data (*Airtable*)
 
 Full dataset of replication materials in articles published in the Fall 2019 issues of six leading political science journals.
 
+&nbsp;  
+
 
 ## Data (CSV)
 
 Download the above dataset as a CSV file.
+
+&nbsp;  
 
 
 ## Codebook and Other Information
