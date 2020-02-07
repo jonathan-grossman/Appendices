@@ -15,7 +15,7 @@ Online annotations corresponding to &quot;Online Appendix Annotation&quot; (OAA)
 
 &nbsp;  
 
-## Data (*Airtable*)
+## [Data (*Airtable*)](https://airtable.com/shrDpVACifLN11Umw)
 
 Full dataset of replication materials in articles published in the Fall 2019 issues of six leading political science journals.
 
