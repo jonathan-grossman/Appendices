@@ -13,7 +13,11 @@ by REDACTED
 
 Online annotations corresponding to &quot;Online Appendix Annotation&quot; (OAA) #1–18 in the article.  
 
-#1  #2  #3  #4  #5  #6  #7  #8  #9  #10  #11  #12  #13  #14  #15  #16  #17  #18
+### Direct links to the annotations:
+
+#1  #2  #3  #4  #5  #6  #7  #8  #9  #10  #11  #12  #13  #14  #15  #16  #17  #18  
+
+Download all the annotations as a PDF file
 
 &nbsp;  
 
