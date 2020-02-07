@@ -22,7 +22,7 @@ Full dataset of replication materials in articles published in the Fall 2019 iss
 &nbsp;  
 
 
-## Data (CSV)
+## [Data (CSV)](https://github.com/for-anonymous-review/Appendices/blob/master/Appendices_Dataset.csv)
 
 Download the above dataset as a CSV file.
 
