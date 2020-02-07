@@ -21,7 +21,7 @@ Online annotations corresponding to &quot;Online Appendix Annotation&quot; (OAA)
 
 &nbsp;  
 
-#### Download all the annotations as a PDF file
+#### [Download all the annotations as a PDF file](https://github.com/for-anonymous-review/Appendices/blob/master/Online_Annotations.pdf)
 
 &nbsp;  
 
