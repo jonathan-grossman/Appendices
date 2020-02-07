@@ -1,6 +1,6 @@
 ### Online Appendix for
 
-## *How Can We Do Better? Replication and Online Appendices in Political Science*
+## *Can We Do Better? Replication and Online Appendices in Political Science*
 
 by REDACTED
 
