@@ -9,7 +9,7 @@ by REDACTED
 # Contents of the Appendix
 
 
-## Annotations
+## [Annotations](https://github.com/for-anonymous-review/Appendices/wiki/Annotations)
 
 Online annotations corresponding to &quot;Online Appendix Annotation&quot; (OAA) #1–18 in the article.  
 
