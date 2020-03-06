@@ -2,7 +2,7 @@
 
 ## *Can We Do Better? Replication and Online Appendices in Political Science*
 
-by Jonathan Grossman and Ami Pedahzur
+by [Jonathan Grossman](https://twitter.com/CatRobotIL) and Ami Pedahzur
 
 Forthcoming in [*Perspectives on Politics*](https://www.cambridge.org/core/journals/perspectives-on-politics)
 
