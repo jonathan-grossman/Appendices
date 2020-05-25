@@ -1,10 +1,10 @@
 ### Online Appendix for
 
-## *Can We Do Better? Replication and Online Appendices in Political Science*
+## [*Can We Do Better? Replication and Online Appendices in Political Science*](https://doi.org/10.1017/S1537592720001206)
 
 by [Jonathan Grossman](https://twitter.com/CatRobotIL) and Ami Pedahzur
 
-Forthcoming in [*Perspectives on Politics*](https://www.cambridge.org/core/journals/perspectives-on-politics)
+Published in [*Perspectives on Politics*](https://www.cambridge.org/core/journals/perspectives-on-politics), May 2020.
 
 &nbsp;  
 
